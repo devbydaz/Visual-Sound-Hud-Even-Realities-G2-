@@ -64,6 +64,3 @@ npm install @evenrealities/even_hub_sdk
 
 # 4. Start the local development server
 npm run dev
-
-**Disclaimer**
-Not a Safety Device: This software is an experimental prototype intended for educational and accessibility exploration. It is not a certified medical device or a reliable safety mechanism. Do not rely on this application for emergency alerts (e.g., fire alarms, sirens, or approaching vehicles). The developer assumes no liability for missed audio events, false positives, or any resulting damages or injuries. **Always use dedicated, certified alerting devices for personal safety.**
