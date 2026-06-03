@@ -9,7 +9,7 @@ Real-Time ML Inference: Utilises TensorFlow and the YAMNet model to classify ove
 
 Smart Glasses HUD Integration: Leverages the Even Hub SDK to push low-latency text and ASCII-art alerts directly to the user's field of vision.
 
-Sleek Companion UI: A fully responsive, dark-mode web application featuring animated visualizers, deep gradients, and contextual Material Icons.
+Companion UI: A fully responsive, dark-mode web application featuring animated visualisers, deep gradients, and contextual Material Icons.
 
 "Lock-On" Debouncing System: Intelligent backend logic that prevents UI flickering by holding high-confidence sounds on screen and filtering out background noise.
 
